@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="gb2312"?>
+<AutoUpdater>
+	<description>Application autoUpdate</description>
+	<Updater>
+		<Url>http://oatest.nfgroup.com.cn:81/download/upgrade/</Url>
+		<LastUpdateTime>2017-06-02</LastUpdateTime>
+	</Updater>
+	<Application applicationId="BrightIM">
+		<EntryPoint>BrightIM.exe</EntryPoint>
+		<Location>.</Location>
+		<Version>1.0.00.00</Version>
+	</Application>
+	<Files>
+	</Files>
+</AutoUpdater>
